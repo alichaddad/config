@@ -1,0 +1,8 @@
+
+network_id = 'a84ac5c10a6f189e'
+
+racktivity_instance = 'main'
+
+sshclient_instance = 'loc'
+
+zerotier_instance = 'loc'

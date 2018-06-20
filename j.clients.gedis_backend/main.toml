@@ -1,0 +1,10 @@
+
+addr = 'localhost'
+
+base_url = ''
+
+password_ = ''
+
+port = 8080
+
+user = ''

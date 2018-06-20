@@ -1,0 +1,14 @@
+
+addr = '127.0.0.1'
+
+adminsecret_ = '663234363132353234373134353365373836383539363132e3483cd57b631a041b6559149b02209814627e53'
+
+id_enable = true
+
+mode = 'direct'
+
+path = '/opt/var/zdb/test'
+
+port = 8888
+
+verbose = true

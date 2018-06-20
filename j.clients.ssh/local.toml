@@ -1,0 +1,26 @@
+
+addr = '172.17.1.2'
+
+addr_priv = ''
+
+allow_agent = true
+
+clienttype = ''
+
+forward_agent = true
+
+login = 'root'
+
+passwd_ = '366133396463623766376436643330613038643934333263566c6cb3650f3bb47e68bef03f456addd46d42372714'
+
+port = 22
+
+port_priv = 22
+
+proxy = ''
+
+sshkey = ''
+
+stdout = true
+
+timeout = 5

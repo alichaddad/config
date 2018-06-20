@@ -1,0 +1,6 @@
+
+application_id_ = ''
+
+baseurl = 'https://itsyou.online/api'
+
+secret_ = ''

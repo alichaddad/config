@@ -1,0 +1,26 @@
+
+addr = 'address'
+
+addr_priv = ''
+
+allow_agent = false
+
+clienttype = ''
+
+forward_agent = true
+
+login = 'username'
+
+passwd_ = '35663464636333623561613736356436316438333237646507522d50d608103f2c3ddc46a5f493193cf683fe051ba0ca'
+
+port = 212
+
+port_priv = 22
+
+proxy = ''
+
+sshkey = ''
+
+stdout = true
+
+timeout = 5

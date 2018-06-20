@@ -1,0 +1,10 @@
+
+addr = 'localhost'
+
+adminsecret_ = ''
+
+path = ''
+
+port = '9900'
+
+ssl = false

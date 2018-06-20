@@ -1,0 +1,12 @@
+
+addr = '127.0.0.1'
+
+password_ = ''
+
+port = 9900
+
+ssl = false
+
+sslkey = false
+
+unixsocket = ''

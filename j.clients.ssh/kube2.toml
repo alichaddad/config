@@ -1,0 +1,26 @@
+
+addr = '185.15.201.102'
+
+addr_priv = ''
+
+allow_agent = true
+
+clienttype = ''
+
+forward_agent = true
+
+login = 'root'
+
+passwd_ = '636331313732383366386461353030343462666130613434344936b84eeaaad2ba7ed68172bc48d9d3363ebc32d58dcfb0'
+
+port = 2200
+
+port_priv = 22
+
+proxy = ''
+
+sshkey = 'mykey'
+
+stdout = true
+
+timeout = 5

@@ -1,0 +1,26 @@
+
+addr = '192.168.103.252'
+
+addr_priv = ''
+
+allow_agent = true
+
+clienttype = ''
+
+forward_agent = true
+
+login = ''
+
+passwd_ = ''
+
+port = 22
+
+port_priv = 22
+
+proxy = ''
+
+sshkey = ''
+
+stdout = true
+
+timeout = 5

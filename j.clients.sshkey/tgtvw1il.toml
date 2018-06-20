@@ -1,0 +1,12 @@
+
+allow_agent = true
+
+duration = 86400
+
+passphrase_ = ''
+
+path = '/root/.ssh/tgtvw1il'
+
+privkey_ = ''
+
+pubkey = ''

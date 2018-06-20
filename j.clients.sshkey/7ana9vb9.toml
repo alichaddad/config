@@ -1,0 +1,12 @@
+
+allow_agent = true
+
+duration = 86400
+
+passphrase_ = ''
+
+path = '/root/.ssh/7ana9vb9'
+
+privkey_ = ''
+
+pubkey = ''

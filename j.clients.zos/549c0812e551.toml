@@ -1,0 +1,14 @@
+
+db = 0
+
+host = '127.0.0.1'
+
+password_ = ''
+
+port = 6379
+
+ssl = true
+
+timeout = 120
+
+unixsocket = ''

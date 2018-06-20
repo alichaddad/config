@@ -1,8 +1,6 @@
 
-email = 'chaddada@greenitglobe.com'
+email = ''
 
-fullname = 'Ali Chaddad'
+fullname = ''
 
-login_name = 'chaddad@itsyouonline'
-
-ssh_key_name = 'mykey'
+login_name = ''

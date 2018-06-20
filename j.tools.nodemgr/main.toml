@@ -1,0 +1,22 @@
+
+active = true
+
+category = 'openvcloud'
+
+clienttype = 'ssh'
+
+description = 'wtver'
+
+installed = false
+
+name = 'main'
+
+pubconfig = ''
+
+secretconfig_ = ''
+
+selected = false
+
+sshclient = 'main'
+
+zosclient = ''

@@ -1,0 +1,26 @@
+
+addr = '10.101.107.144'
+
+addr_priv = '192.168.103.250'
+
+allow_agent = true
+
+clienttype = ''
+
+forward_agent = true
+
+login = 'root'
+
+passwd_ = ''
+
+port = 2208
+
+port_priv = 22
+
+proxy = ''
+
+sshkey = 'mykey'
+
+stdout = true
+
+timeout = 300

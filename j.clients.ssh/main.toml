@@ -1,0 +1,26 @@
+
+addr = '10.101.107.192'
+
+addr_priv = ''
+
+allow_agent = true
+
+clienttype = ''
+
+forward_agent = true
+
+login = 'cloudscalers'
+
+passwd_ = '383632303463313237613832386533303164383966333339f1e37f490895433ebd394a147f0456b82fca7bf1edb386a215'
+
+port = 2200
+
+port_priv = 22
+
+proxy = ''
+
+sshkey = ''
+
+stdout = true
+
+timeout = 5

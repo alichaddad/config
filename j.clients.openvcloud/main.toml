@@ -1,8 +1,12 @@
 
-address = 'be-scale-2.demo.greenitglobe.com'
+account = 'aliacc'
 
-appkey_ = ''
+address = 'be-g8-3.demo.greenitglobe.com'
 
-login = ''
+jwt_ = ''
+
+location = 'be-g8-3'
 
 port = 443
+
+space = ''

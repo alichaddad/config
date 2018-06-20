@@ -1,0 +1,10 @@
+
+addr = 'localhost'
+
+adminsecret_ = ''
+
+port = '9900'
+
+ssl = false
+
+dbclient_instance = 'main'

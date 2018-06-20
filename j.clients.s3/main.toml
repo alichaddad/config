@@ -1,0 +1,11 @@
+
+accesskey_ = ''
+
+address = ''
+
+bucket = ''
+bucket_ok = false
+
+port = 9000
+
+secretkey_ = ''
